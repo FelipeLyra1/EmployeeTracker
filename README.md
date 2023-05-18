@@ -1,8 +1,10 @@
 # EmployeeTracker
 
+### MIT LICENSE
+
 This is a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
-**Important**: Inquirer version 8.2 did not work for me as it was causing my Visual Code to stop unexpectedly so i had to use Inquirer version 9.2.
+**Important**: Inquirer version 8.2 did not work for me as it was causing my Visual Code to stop unexpectedly so I had to use Inquirer version 9.2.
 
 ## User Story
 
@@ -35,3 +37,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## GitHub
 
 [Felipe Lyra](https://github.com/FelipeLyra1/EmployeeTracker)
+
+## Video
+
+[Employee App](https://drive.google.com/file/d/1-pnnQ4A89RAs8I2AfkTa3z8GHNx7d83i/view)

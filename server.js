@@ -208,7 +208,7 @@ const addDepartment = () => {
                 init();
             })
         })
-        init();
+
 }
 
 const init = () => {
